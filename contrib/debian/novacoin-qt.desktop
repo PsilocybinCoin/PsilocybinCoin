@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Psilocybin
+Comment=Psilocybin P2P Cryptocurrency
+Comment[fr]=Psilocybin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Psilocybin, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/Psilocybin-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/Psilocybin;
+Categories=Office;
